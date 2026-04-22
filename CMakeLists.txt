@@ -1,11 +1,11 @@
 # Main CMake file
 
 #! CMake minimum version. Make sure your current CMake version is equal or greater than this
-cmake_minimum_required(VERSION 3.28.3)
+cmake_minimum_required(VERSION 4.3.1)
 
 # Project name, version and languages
 #! Change the project name and version here
-project(MY_PROJECT VERSION 0.0.0 LANGUAGES C CXX)
+project(cpp_course VERSION 0.0.1 LANGUAGES C CXX)
 
 # Configure build options
 set(CMAKE_CXX_STANDARD 23)

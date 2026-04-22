@@ -1,0 +1,1 @@
+add_library(module_1 STATIC module_1.cpp)

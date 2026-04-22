@@ -1,0 +1,1 @@
+target_include_directories(module_1 PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
